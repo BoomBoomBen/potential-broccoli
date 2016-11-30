@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79894" started-at="2016-10-18T09:21:43Z" finished-at="2016-10-18T09:23:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79894" started-at="2016-10-18T09:21:43Z" finished-at="2016-10-18T09:23:03Z">
+      <class name="com.my.test.TestCase">
+        <test-method status="PASS" signature="Recharge()[pri:0, instance:com.my.test.TestCase@77eca502]" name="Recharge" duration-ms="79858" started-at="2016-10-18T17:21:43Z" finished-at="2016-10-18T17:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Recharge -->
+      </class> <!-- com.my.test.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test" preserve-order="true">
+    <classes>
+      <class name="com.my.test.TestCase"/>
+         <methods>
+<!--                    <include name="Regist" />  -->
+<!--                     <include name="Bank" />   -->
+                    <include name="Recharge" />
+<!--                   <include name="Withdrawals" />
+                    <include name="Ticket" />     -->
+          </methods>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
